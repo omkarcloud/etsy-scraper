@@ -32,7 +32,7 @@ It works across **26 Etsy regional sites** — `us`, `uk`, `de`, `fr`, `jp`, `in
 
 The same scraper is also available on **Apify** and **RapidAPI**:
 
-[![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-blue)](https://apify.com/omkar-cloud/etsy-scraper) [![Run on RapidAPI](https://img.shields.io/badge/Run%20on-RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/Chetan11dev/api/etsy-api/playground)
+[![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-blue)](https://apify.com/omkar-cloud/etsy-scraper) [![Run on RapidAPI](https://img.shields.io/badge/Run%20on-RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/OmkarCloud/api/etsy28/playground)
 
 [![Etsy Scraper API — scrape Etsy listings, prices, ratings, and reviews into JSON](https://raw.githubusercontent.com/omkarcloud/etsy-scraper/master/etsy-scraper-featured-image.png)](https://www.omkar.cloud/tools/etsy-scraper/playground?utm_source=github&utm_medium=cpc&utm_content=hero-image)
 
